@@ -1,0 +1,40 @@
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Form1.resources
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\HP\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\sande\source\repos\Milestone-3\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\sande\source\repos\Milestone-3\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\sande\source\repos\Milestone-3\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\sande\source\repos\Milestone-3\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csprojAssemblyReference.cache
+C:\Users\sande\source\repos\Milestone-3\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Form1.resources
+C:\Users\sande\source\repos\Milestone-3\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\sande\source\repos\Milestone-3\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\sande\source\repos\Milestone-3\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Milestone-3\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\sande\source\repos\Milestone-3\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\sande\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\sande\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\sande\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\sande\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csprojAssemblyReference.cache
+C:\Users\sande\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Form1.resources
+C:\Users\sande\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\sande\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\sande\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\sande\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\linds\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\linds\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\linds\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\linds\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csprojAssemblyReference.cache
+C:\Users\linds\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Form1.resources
+C:\Users\linds\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\linds\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\linds\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\linds\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\linds\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
